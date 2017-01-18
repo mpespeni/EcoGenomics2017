@@ -8,3 +8,9 @@ Syntax for creating a list.
 * item 2   
 
 ```
+
+Example of embedding a URL:
+Syntax:
+```
+[directions to download Rstudio](https://www.rstudio.com/products/rstudio/download/)
+```
