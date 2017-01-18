@@ -21,3 +21,4 @@ Syntax for embedding image:
 ![](URL)
 ```
 
+![](https://cloud.githubusercontent.com/assets/15111254/22071577/8d9f140e-dd6d-11e6-92f7-022b91baa80e.JPG)
