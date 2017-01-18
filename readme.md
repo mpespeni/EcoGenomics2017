@@ -15,3 +15,9 @@ Syntax:
 [directions to download Rstudio](https://www.rstudio.com/products/rstudio/download/)
 ```
 [directions to download Rstudio](https://www.rstudio.com/products/rstudio/download/)
+
+Syntax for embedding image:
+```
+![](URL)
+```
+
