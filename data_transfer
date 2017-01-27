@@ -1,0 +1,24 @@
+'''
+mpespeni@zoo ~/data/poch> ssh-keygen -t rsa -b 2048
+Generating public/private rsa key pair.
+Enter file in which to save the key (/users/m/p/mpespeni/.ssh/id_rsa): globusssh
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in globusssh.
+Your public key has been saved in globusssh.pub.
+The key fingerprint is:
+e6:6f:98:69:16:ba:17:87:4b:4f:97:70:89:0e:3f:0e mpespeni@okapi.uvm.edu
+The key's randomart image is:
++--[ RSA 2048]----+
+|                 |
+|                 |
+|           . .   |
+|        . o o    |
+|        S= o .   |
+|       oE * o    |
+|       o.& o     |
+|      . O.+      |
+|      .= ..      |
++-----------------+
+mpespeni@zoo ~/data/poch> 
+'''
